@@ -1,3 +1,6 @@
+# Author: Oluwakemi Toluwalase Obadeyi
+# Date: 03/10/2023
+
 from Data import *
 import sqlite3
 import time
