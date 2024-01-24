@@ -6,7 +6,7 @@ This is a text-based application that allow users to book and manage trips, as w
 - Python
 - SQLite as the database engine for data storage, data retrieval and data allocation
 
-This repository is my first-year project. Submit a Valid Pull Request, Code will be reviewed and merged.
+This repository is my first-year project. Submit a valid pull request, code will be reviewed and merged.
 
 Happy Hacking!!
 
