@@ -1,2 +1,15 @@
-# RydeEasy
-My first-year project: Taxi Booking System in Python and SQLite as the database engine.
+# RydeEasy - Taxi Booking System
+
+This is a text-based application that allow users to book and manage trips, as well as cancel bookings by creating a new account or signing in with an existing login credentials.
+
+### Technologies used in this project:
+- Python
+- SQLite as the database engine for data storage, data retrieval and data allocation
+
+This repository is my first-year project. Submit a Valid Pull Request, Code will be reviewed and merged.
+
+Happy Hacking!!
+
+### Requirements
+- Python 2.x or 3.x
+- SQLite3
