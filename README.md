@@ -11,5 +11,5 @@ This repository is my first-year project. Submit a valid pull request, code will
 Happy Hacking!!
 
 ### Requirements
-- Python 2.x or 3.x
-- SQLite3
+- Python 3.x
+- SQLite 3
