@@ -12,4 +12,5 @@ Happy Hacking!!
 
 ### Requirements
 - Python 3.x
-- SQLite 3
+- SQLite3 Library
+- SQLite Studio
