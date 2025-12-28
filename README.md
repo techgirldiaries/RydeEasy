@@ -15,7 +15,7 @@
 This project highlights:
 
 - Python programming with focus on functions, classes and OOP
-- Database management
+- Database management (CRUD operations)
 - User input validation and error handling
 - CLI-based interface for interaction without graphical front-end
 
