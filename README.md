@@ -38,14 +38,6 @@ git clone https://github.com/techgirldiaries/RydeEasy.git
 ```bash
 cd RydeEasy
 ```
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-4. Run the application:
-```bash
-python app.py
-```
 
 ## License
 
